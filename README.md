@@ -8,7 +8,7 @@ Currently, I'm principally focusing on the Defi development stack as the blockch
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-- 🌱 I've already built the Swap websites for Smart Contract.
+- 🌱 I've already built the Swap websites and I have also deployed NFT Smart Contract for ERC721 token.
 - 🤔 I’m looking to help with building Defi and web apps.
 - 💬 Ask me about web and blockchain technologies.
 - 📫 How to reach me:
