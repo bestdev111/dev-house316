@@ -1,6 +1,6 @@
 ### Hi. 👋
 
-Hi. Thank you for your visiting my profile. I'm a senior Blockchain and Full-Stack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Python among others.
+Hi. This is Alexei. Thank you for your visiting my profile. I'm a senior Blockchain and Full-Stack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Python among others.
 For the past 8 years, I have taken part in several bussiness and teams.
 I learned more technologies and collaboration while I worked as a senior developer.
 
