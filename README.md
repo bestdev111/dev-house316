@@ -12,7 +12,7 @@ Currently, I'm principally focusing on the Defi development stack as the blockch
 - 🤔 I’m looking to help with building Defi and web apps.
 - 💬 Ask me about web and blockchain technologies.
 - 📫 How to reach me:
-  1) Email: rmsangel316@gmail.com
+  1) Email: danielcross316@gmail.com
   2) Skype: live:.cid.90fdd8c5341c613f
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
