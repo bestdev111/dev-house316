@@ -58,7 +58,7 @@ Currently, I'm principally focusing on the Defi development stack as the blockch
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
 ### Please call me at any time ❤️
-- danielcross316@gmail.com
+- rmsangel316@gmail.com
 - public phone number: +1(959)8888872
 - Skype: live:.cid.90fdd8c5341c613f
 
