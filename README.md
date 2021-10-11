@@ -59,7 +59,6 @@ Currently, I'm principally focusing on the Defi development stack as the blockch
 
 ### Please call me at any time ❤️
 - rmsangel316@gmail.com
-- public phone number: +1(959)8888872
 - Skype: live:.cid.90fdd8c5341c613f
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
