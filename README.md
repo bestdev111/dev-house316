@@ -13,7 +13,7 @@ Currently, I'm principally focusing on the Defi development stack as the blockch
 - 💬 Ask me about web and blockchain technologies.
 - 📫 How to reach me:
   1) Email: jack.lin9316@gmail.com
-  2) Skype: live:.cid.90fdd8c5341c613f
+  2) Skype: live:.cid.a8132280abcb6e09
   3) Linkedin: https://www.linkedin.com/in/jack-lin-9b8755251
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
