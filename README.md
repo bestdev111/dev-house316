@@ -6,8 +6,6 @@ I learned more technologies and collaboration while I worked as a senior develop
 
 Currently, I'm principally focusing on the Defi development stack as the blockchain technologies.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
-
 - 🌱 I've already built the Swap websites and I have also deployed NFT Smart Contract for ERC721 token(You can check wagyuswap.com website).
 - 🤔 I’m looking to help with building Defi and web apps.
 - 💬 Ask me about web and blockchain technologies.
