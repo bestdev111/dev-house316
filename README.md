@@ -10,10 +10,8 @@ Currently, I'm principally focusing on the Defi development stack as the blockch
 - 🤔 I’m looking to help with building Defi and web apps.
 - 💬 Ask me about web and blockchain technologies.
 - 📫 How to reach me:
-  1) Email: jack.lin9316@gmail.com
+  1) Email: rmsangel316@gmail.com
   2) Skype: live:.cid.a8132280abcb6e09
-  3) Linkedin: https://www.linkedin.com/in/jack-lin-9b8755251
-  4) Website: https://seniordev316.vercel.app
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
