@@ -1,14 +1,14 @@
 ### Hi. 👋
 
 Hi. Thank you for your visiting my profile. I'm a senior Full-Stack Web and Blockchain developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), JavaScript/Typescript (React, Angular, Vue, Node, Nest), PHP, Python among others.
-For the past 8 years, I have taken part in several businesses and teams.
+For the past 10 years, I have taken part in several businesses and teams.
 I learned more technologies and collaboration while I worked as a senior developer.
 
 Currently, I'm principally focusing on the Defi development stack as the blockchain technologies.
 
-- 🌱 I've already built the Swap websites and I have also deployed NFT Smart Contract for ERC721 token(You can check wagyuswap.com website).
-- 🤔 I’m looking to help with building Defi and web apps.
-- 💬 Ask me about web and blockchain technologies.
+- 🌱 I've already built the React and Vue projects.
+- 🤔 I’m looking to help with building Vue and React applications.
+- 💬 Ask me about web development and solutions for issues.
 - 📫 How to reach me:
   1) Email: rmsangel316@gmail.com
   2) Skype: live:.cid.a8132280abcb6e09
