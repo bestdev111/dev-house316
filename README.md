@@ -1,20 +1,14 @@
 ### Hi. 👋
 
-Hi. Thank you for your visiting my profile. I'm a senior Full-Stack Web and Blockchain developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), JavaScript/Typescript (React, Angular, Vue, Node, Nest), PHP, Python among others.
-For the past 10 years, I have taken part in several businesses and teams.
-I learned more technologies and collaboration while I worked as a senior developer.
+I'm a full stack web developer specializing in JS/PHP web apps. I work almost exclusively with Javascript and PHP, but also have experience in Python and C#. My projects have spanned a large variety of industries, including real estate, fintech, travel, e-commerce, cybersecurity, real-time captioning, and government.
 
-Currently, I'm principally focusing on the Defi development stack as the blockchain technologies.
+My goal is to make enterprise-class software attainable for small and medium-sized businesses. Many of the apps I've built leverage existing software and involve complex integrations with CRMs, spreadsheets, and a variety of other third-party services.
 
-- 🌱 I've already built the React and Vue projects.
-- 🤔 I’m looking to help with building Vue and React applications.
-- 💬 Ask me about web development and solutions for issues.
 - 📫 How to reach me:
   1) Email: rmsangel316@gmail.com
   2) Skype: live:.cid.a8132280abcb6e09
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
-
 
 ### Languages and Tools:
 
@@ -55,7 +49,7 @@ Currently, I'm principally focusing on the Defi development stack as the blockch
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
-### Please call me at any time ❤️
+### Please call me at any time
 - rmsangel316@gmail.com
 - Skype: live:.cid.a8132280abcb6e09
 
