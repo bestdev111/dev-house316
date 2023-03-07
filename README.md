@@ -1,8 +1,6 @@
 ### Hi. 👋
 
-I'm a full stack web developer specializing in JS/PHP web apps. I work almost exclusively with Javascript and PHP, but also have experience in Python and C#. My projects have spanned a large variety of industries, including real estate, fintech, travel, e-commerce, cybersecurity, real-time captioning, and government.
-
-My goal is to make enterprise-class software attainable for small and medium-sized businesses. Many of the apps I've built leverage existing software and involve complex integrations with CRMs, spreadsheets, and a variety of other third-party services.
+I'm a full stack Web and Blockchain developer. 
 
 - 📫 How to reach me:
   1) Email: rmsangel316@gmail.com
@@ -52,5 +50,6 @@ My goal is to make enterprise-class software attainable for small and medium-siz
 ### Please call me at any time
 - rmsangel316@gmail.com
 - Skype: live:.cid.a8132280abcb6e09
+- +1(314)3905154
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
