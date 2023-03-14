@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto">👋 Hi, I’m a Full Stack Developer</h1>
+<h1 align="center" dir="auto">👋 Hi, all</h1>
 
 <p align="center">
   <a href="https://join.skype.com/invite/NFgsETJCYFB3">
