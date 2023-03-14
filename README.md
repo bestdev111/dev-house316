@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Ryosuke Yamada</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m a Full Stack Developer</h1>
 
 <p align="center">
   <a href="https://join.skype.com/invite/NFgsETJCYFB3">
@@ -7,13 +7,12 @@
   <!-- <a href="https://discord.gg/uBApurqJ">
     <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /> -->
   </a>&nbsp;&nbsp;
-  <a href="mailto:ryosukeyamada0430@gmail.com">
+  <a href="mailto:rmsangel316@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
-
 
 <p align="center">
   <h3 align="center">A Passionate & Agile FullStack Developer +7 years exp</h3>
@@ -22,18 +21,17 @@
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
 
-- 📚 Love reading books on personal development & financial literacy. 
+- 📚 Love reading books on personal development & financial literacy.
 
-- ⚡ Quotes: *What you do today can improve all of your tomorrows.*
+- ⚡ Quotes: _What you do today can improve all of your tomorrows._
 </p>
 
 <img src="https://img.shields.io/github/issues-pr/gerMdz/AlamedaCMS" alt="Pull Requests Badge"/>
 <img src="https://img.shields.io/github/issues/gerMdz/AlamedaCMS" alt="Issues Badge"/>
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gerMdz/AlamedaCMS?color=2b9348">
 <img src="https://img.shields.io/github/license/gerMdz/AlamedaCMS?color=2b9348" alt="License Badge"/>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=germdz&label=Profile%20views&color=0e75b6&style=flat" alt="FullStackStar" /> </p>
 
@@ -91,24 +89,25 @@
 <img align="right" src="https://img.shields.io/github/followers/FullStackStar?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-
-
-
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-  ### DApps & Online Betting Website
+### DApps & Online Betting Website
+
   <br />
 
-  ### Crypto Trading Platforms & Bots
+### Crypto Trading Platforms & Bots
+
   <br />
 
-  ### Website and Mobile application
+### Website and Mobile application
+
   <br />
 
-  ### Video Conference Web & Mobile application
+### Video Conference Web & Mobile application
+
   <br />
   
   ### SaaS/CRM/CMS/E-Commerce Web & Mobile application
