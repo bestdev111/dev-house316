@@ -1,7 +1,7 @@
 <h1 align="center" dir="auto">👋 Hi, all</h1>
 
 <p align="center">
-  <a href="https://join.skype.com/invite/NFgsETJCYFB3">
+  <a href="https://join.skype.com/invite/yf2FgwdzhmLZ">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!-- <a href="https://discord.gg/uBApurqJ">
