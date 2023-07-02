@@ -15,7 +15,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
 
 <p align="center">
-  <h3 align="center">A Passionate & Agile FullStack Developer +7 years exp</h3>
+  <h3 align="center">A Passionate & Agile FullStack Web and Mobile Developer +8 years exp</h3>
 
 - 😎 Interested in contributing expertise in web, unity and blockchain development
 
