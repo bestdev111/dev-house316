@@ -12,117 +12,149 @@
   </a>&nbsp;&nbsp;
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
+![gitartwork](gitartwork.svg)
+# <h3 align="center"> About Me </h3>
 
-<p align="center">
-  <h3 align="center">A Passionate & Agile FullStack Web and Mobile Developer +8 years exp</h3>
+Full Stack Developer with over 5 years of professional experience in software development, focusing on React, Next and Node. Proficient in all aspects of the development process, from requirement gathering and design to deployment and maintenance. Skilled in designing and building scalable and maintainable applications using modern technologies and best practices. Passionate about working in a fast-paced, collaborative environment and staying up to date with the latest industry trends.
 
-- 😎 Interested in contributing expertise in web, unity and blockchain development
+## <h3 align="center"> Skill Set </h3>
 
-- 👯 I hope someday collaborate with on **Innovative Projects**
+🔹  Languages: C, C++, C#, Python, JavaScript, TypeScript <br>
+🔹  Frameworks & Libraries: React, Vue, Next, Angluar, Node, Nest, Django, ASP.NET <br>
+🔹  Databases: MySQL, MongoDB, PostgreSQL, MsSQL <br>
+🔹  Tools: Git, AWS, Jira, Docker, Azure <br>
 
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
 
-- 📚 Love reading books on personal development & financial literacy.
+## <h3 align="center"> Languages and Tools </h3>
 
-- ⚡ Quotes: _What you do today can improve all of your tomorrows._
-</p>
-
-<img src="https://img.shields.io/github/issues-pr/gerMdz/AlamedaCMS" alt="Pull Requests Badge"/>
-<img src="https://img.shields.io/github/issues/gerMdz/AlamedaCMS" alt="Issues Badge"/>
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gerMdz/AlamedaCMS?color=2b9348">
-<img src="https://img.shields.io/github/license/gerMdz/AlamedaCMS?color=2b9348" alt="License Badge"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=germdz&label=Profile%20views&color=0e75b6&style=flat" alt="FullStackStar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="FullStackStar" /></a> </p>
-
-## My Skills
-
-<table>
-  <tr>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-    </tr>
-    <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="200"/></td>
-      <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="200"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="200"/></td>
-    </tr>
-    <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="200"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="200"/></td>
-    </tr>
-    <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="200"/></td>
-    <td><img src="https://www.chartjs.org/media/logo-title.svg" width="200"/></td>
-    </tr>
-</table>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=FullStackStar.FullStackStar" />
-<img align="right" src="https://img.shields.io/github/followers/FullStackStar?label=Follow&style=social" />
-<h1 align="center"></h1>
-
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
-
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-
-### DApps & Online Betting Website
-
-  <br />
-
-### Crypto Trading Platforms & Bots
-
-  <br />
-
-### Website and Mobile application
-
-  <br />
-
-### Video Conference Web & Mobile application
-
-  <br />
-  
-  ### SaaS/CRM/CMS/E-Commerce Web & Mobile application
-  <br />
-  
-  ### 2D / 3D Unity Game & application
-  <br />
-
+<div style="display: flex; align-items: flex-start; align-content: center">  
+<table style="text-align: center;">  
+  <tr>  
+    <td align="center" width="80" align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="icon" alt="C++" />  
+      <br>C++  
+    </td>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cs" alt="C#" />  
+      <br>C#  
+    </td> 
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
+      <br>Python  
+    </td> 
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=js" alt="Javascript" />  
+      <br>Javascript  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
+      <br>NodeJs  
+    </td>   
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />  
+      <br>TS  
+    </td>  
+    <td align="center" width="80">  
+    <img  width="35" height="35" src="https://skillicons.dev/icons?i=html" alt="HTML" />  
+      <br>HTML  
+    </td>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=css" alt="CSS" />  
+      <br>CSS  
+    </td> 
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />  
+      <br>Java  
+    </td>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=php" alt="PHP" />  
+      <br>PHP  
+    </td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=react" alt="icon" alt="React" />  
+      <br>React  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=vue" alt="icon" alt="Vue" />  
+      <br>Vue  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=next" alt="icon" alt="Next" />  
+      <br>Next  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=angular" alt="icon" alt="Angular" />  
+      <br>Angular  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
+      <br>Express  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="icon" alt="Nestjs" />  
+      <br>Nestjs  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
+      <br>Django  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="icon" alt=".Net" />  
+      <br>.Net  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=spring" alt="icon" alt="Spring" />  
+      <br>Spring  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
+      <br>Laravel  
+    </td>
+  </tr>
+  <tr>  
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=mysql" alt="icon" alt="MySql" />  
+      <br>MySql  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=postgresql" alt="icon" alt="PostgreSQL" />  
+      <br>PgSQL  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="icon" alt="MongoDB" />  
+      <br>Mongo
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=git" alt="icon" alt="Git" />  
+      <br>Git  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=github" alt="icon" alt="GitHub" />  
+      <br>GitHub  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" alt="Stackoverflow" />  
+      <br>Stack  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="icon" alt="Docker" />  
+      <br>Docker  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
+      <br>Tailwind  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=threejs" alt="icon" alt="Threejs" />  
+      <br>Threejs  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" alt="AWS" />  
+      <br>AWS  
+    </td>
+  </tr>
+</table>  
 </div>
-
-<h3 align="left">Support:</h3>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germdz&show_icons=true&locale=en&layout=compact" alt="FullStackStar" /></p> <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FullStackStar&show_icons=true&locale=en" alt="FullStackStar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FullStackStar&" alt="FullStackStar" /></p>
+<br/> 
